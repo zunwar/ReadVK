@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReadVK</string>
+    <string name="title_home">NewsFeed</string>
+    <string name="title_dashboard">Friends</string>
+    <string name="title_notifications">Notifications</string>
+    <integer name="com_vk_sdk_AppId">7775064</integer>
+</resources>
